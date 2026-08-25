@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\bin\Debug\net10.0\trabajo.exe
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\bin\Debug\net10.0\trabajo.deps.json
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\bin\Debug\net10.0\trabajo.runtimeconfig.json
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\bin\Debug\net10.0\trabajo.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\bin\Debug\net10.0\trabajo.pdb
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\refint\trabajo.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.pdb
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\trabajo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\trabajo\obj\Debug\net10.0\ref\trabajo.dll
