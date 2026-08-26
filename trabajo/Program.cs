@@ -4,12 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("============================================");
-        Console.WriteLine("|* Wilser Gabriel*|");
-        Console.WriteLine("|*Matricula: 2025-1892*|");
-        Console.WriteLine("|*Carrera: Desarrollo de Software*|");
-        Console.WriteLine("|*Se pusieron lo huevo a chele*|");
-        Console.WriteLine("============================================");
+        Console.WriteLine("introduce tu nombre");
+        string nombre = Console.ReadLine();
+        Console.WriteLine("introduce tu edad");
+        int edad = int.Parse(Console.ReadLine());
+        Console.WriteLine("introduce la inicial de tu apellido");
+        char inicialApellido = char.Parse(Console.ReadLine());
+        Console.WriteLine("Es estudiante activo?");
+        bool esActivo = bool.Parse(Console.ReadLine());
+        Console.WriteLine($"ficha: \nNombre: {nombre}\nEdad: {edad}\nInicial del apellido: {inicialApellido}\nEstudiante activo: {esActivo} ");
         }
 
     }
