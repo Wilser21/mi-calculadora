@@ -4,11 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("5 + 3 * 2 = " + (5 + 3 * 2));
-        Console.WriteLine("(5 +3) * 2 = " + ((5 + 3) * 2));
-        Console.WriteLine("(10/4) = " + ((10 / 4)));
-        Console.WriteLine("(10/4.0) = " + ((10 / 4.0)));
-        Console.WriteLine("(10%4.0) = " + ((10 % 4.0)));
+Console.Write("Introduce la temperatura en grados Celsius: ");
+double celsius = Convert.ToDouble(Console.ReadLine());
+double fahrenheit = (celsius * 9 / 5) + 32;
+double kelvin = celsius + 273.15;
+Console.WriteLine($"\n--- Resultados de Conversión ---");
+Console.WriteLine($"Fahrenheit: {fahrenheit:F2} °F");
+Console.WriteLine($"Kelvin: {kelvin:F2} K");
+
           }
      }
 
