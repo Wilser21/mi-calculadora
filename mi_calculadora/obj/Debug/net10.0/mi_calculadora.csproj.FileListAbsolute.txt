@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\bin\Debug\net10.0\mi_calculadora.exe
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\bin\Debug\net10.0\mi_calculadora.deps.json
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\bin\Debug\net10.0\mi_calculadora.runtimeconfig.json
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\bin\Debug\net10.0\mi_calculadora.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\bin\Debug\net10.0\mi_calculadora.pdb
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.sourcelink.json
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\refint\mi_calculadora.dll
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.pdb
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\mi_calculadora.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\fundamentos de programacion\mi_calculadora\obj\Debug\net10.0\ref\mi_calculadora.dll
